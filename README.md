@@ -46,7 +46,7 @@ lesummit_web/
 
 1. 克隆專案：
    ```bash
-   git clone https://github.com/YOUR_USERNAME/lesummit-web.git
+   git clone https://github.com/yunjintw/lesummit_web.git
    ```
 
 2. 開啟專案：
@@ -56,7 +56,7 @@ lesummit_web/
 ## 部署
 
 本網站部署於 GitHub Pages，訪問地址：
-https://YOUR_USERNAME.github.io/lesummit-web
+https://yunjintw.github.io/lesummit_web
 
 ## 維護說明
 
@@ -74,4 +74,4 @@ https://YOUR_USERNAME.github.io/lesummit-web
 
 ## 版權資訊
 
-© 2024 頂盛實業股份有限公司. All rights reserved. 
+© 2024 頂盛實業股份有限公司. All rights reserved.
