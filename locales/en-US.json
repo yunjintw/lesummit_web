@@ -1,0 +1,87 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products",
+        "news": "News"
+    },
+    "home": {
+        "hero": {
+            "title": "Professional Industrial Automation Solutions",
+            "subtitle": "Providing the highest quality industrial automation equipment and services"
+        },
+        "features": {
+            "title": "Our Advantages",
+            "quality": "Quality",
+            "service": "Professional Service",
+            "innovation": "Innovation"
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "About Us",
+            "subtitle": "Professional, Innovative, Sustainable"
+        },
+        "mission": {
+            "title": "Our Mission",
+            "content": "Committed to providing the highest quality industrial automation solutions"
+        },
+        "vision": {
+            "title": "Our Vision",
+            "content": "To become a leader in industrial automation"
+        }
+    },
+    "products": {
+        "hero": {
+            "title": "Product Series",
+            "subtitle": "Comprehensive Industrial Automation Solutions"
+        },
+        "categories": {
+            "all": "All",
+            "automation": "Automation Equipment",
+            "precision": "Precision Machinery",
+            "sensors": "Sensors",
+            "software": "Industrial Software"
+        },
+        "viewDetails": "View Details"
+    },
+    "news": {
+        "hero": {
+            "title": "Latest News",
+            "subtitle": "Stay updated with industry trends and company news"
+        },
+        "categories": {
+            "all": "All",
+            "company": "Company News",
+            "product": "Product News",
+            "industry": "Industry Trends",
+            "events": "Events"
+        },
+        "readMore": "Read More",
+        "archive": {
+            "title": "News Archive",
+            "year": "Year",
+            "month": "Month"
+        },
+        "subscribe": {
+            "title": "Subscribe to Newsletter",
+            "placeholder": "Enter your email",
+            "button": "Subscribe"
+        }
+    },
+    "footer": {
+        "contact": {
+            "title": "Contact Information",
+            "address": "Address",
+            "phone": "Phone",
+            "email": "Email"
+        },
+        "social": {
+            "title": "Social Media",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube"
+        },
+        "copyright": "© 2024 Le Summit Industrial Co., Ltd. All rights reserved."
+    }
+} 

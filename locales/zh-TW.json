@@ -1,0 +1,87 @@
+{
+    "nav": {
+        "home": "首頁",
+        "about": "關於我們",
+        "products": "產品",
+        "news": "新聞"
+    },
+    "home": {
+        "hero": {
+            "title": "專業的工業自動化解決方案",
+            "subtitle": "為您提供最優質的工業自動化設備與服務"
+        },
+        "features": {
+            "title": "我們的優勢",
+            "quality": "優質品質",
+            "service": "專業服務",
+            "innovation": "創新技術"
+        }
+    },
+    "about": {
+        "hero": {
+            "title": "關於我們",
+            "subtitle": "專業、創新、永續"
+        },
+        "mission": {
+            "title": "企業使命",
+            "content": "致力於提供最優質的工業自動化解決方案"
+        },
+        "vision": {
+            "title": "企業願景",
+            "content": "成為工業自動化領域的領導者"
+        }
+    },
+    "products": {
+        "hero": {
+            "title": "產品系列",
+            "subtitle": "全方位的工業自動化解決方案"
+        },
+        "categories": {
+            "all": "全部",
+            "automation": "自動化設備",
+            "precision": "精密機械",
+            "sensors": "感測器",
+            "software": "工業軟體"
+        },
+        "viewDetails": "查看詳情"
+    },
+    "news": {
+        "hero": {
+            "title": "最新消息",
+            "subtitle": "掌握產業動態與公司最新資訊"
+        },
+        "categories": {
+            "all": "全部",
+            "company": "公司新聞",
+            "product": "產品新聞",
+            "industry": "產業趨勢",
+            "events": "活動訊息"
+        },
+        "readMore": "閱讀更多",
+        "archive": {
+            "title": "新聞存檔",
+            "year": "年份",
+            "month": "月份"
+        },
+        "subscribe": {
+            "title": "訂閱電子報",
+            "placeholder": "請輸入您的電子郵件",
+            "button": "訂閱"
+        }
+    },
+    "footer": {
+        "contact": {
+            "title": "聯絡資訊",
+            "address": "地址",
+            "phone": "電話",
+            "email": "電子郵件"
+        },
+        "social": {
+            "title": "社群媒體",
+            "facebook": "Facebook",
+            "linkedin": "LinkedIn",
+            "youtube": "YouTube"
+        },
+        "copyright": "© 2024 Le Summit Industrial Co., Ltd. All rights reserved."
+    }
+} 

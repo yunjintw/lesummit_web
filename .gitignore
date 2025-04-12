@@ -1,0 +1,34 @@
+# 系統檔案
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器檔案
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 暫存檔案
+*.log
+*.tmp
+*.temp
+
+# 依賴目錄
+node_modules/
+vendor/
+
+# 編譯輸出
+dist/
+build/
+out/
+
+# 環境設定檔
+.env
+.env.local
+.env.*.local
+
+# 其他
+*.bak
+*.swp
+*~ 
